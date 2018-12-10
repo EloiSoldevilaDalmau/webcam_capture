@@ -8,7 +8,7 @@ Just webcam capture using OpenCV in ubuntu
 
 3. Clone the forked repository to your local machine by writting in the terminal whats following
 
-  $ git clone https://github.com/<my_github_name>/webcam_capture.git   
+     $ git clone https://github.com/<my_github_name>/webcam_capture.git   
   
   //changing <my_github_name> with your github username
 
